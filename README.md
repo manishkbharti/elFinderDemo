@@ -1,0 +1,4 @@
+elFinderDemo
+============
+
+Grails: elFinder demo
